@@ -1,0 +1,45 @@
+h1 {
+    color: red;
+}
+
+
+
+body {
+    color: #333333;
+    font-family: arial;
+    max-width: 650px;
+    margin: 0 auto;
+    padding: 0 16px;
+}
+
+input, button{
+    border: 1px solid #8888;
+    padding: 4px;
+    cursor: pointer;
+}
+
+.sagimage {
+    width: 250px;
+}
+
+.maincontent{
+    flex-grow: 1;
+}
+
+footer {
+    color: #888;
+    border-top: #eeeeee solid;
+    padding-top: 5px;
+    margin-top: 25px;
+}
+
+header {
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+header a {
+    color: #888888;
+    margin-right: 20px;
+    text-decoration: none;
+}
